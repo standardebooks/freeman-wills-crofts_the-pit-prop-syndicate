@@ -17,8 +17,8 @@
 		<meta property="se:url.homepage" refines="#type-designer">https://www.theleagueofmoveabletype.com</meta>
 		<meta property="role" refines="#type-designer" scheme="marc:relators">tyd</meta>
 		<link href="onix.xml" rel="onix-record"/>
-		<dc:title id="title">The Pit Prop Syndicate</dc:title>
-		<meta property="file-as" refines="#title">Pit Prop Syndicate, The</meta>
+		<dc:title id="title">The Pit-Prop Syndicate</dc:title>
+		<meta property="file-as" refines="#title">Pit-Prop Syndicate, The</meta>
 		<dc:subject id="subject-1">Detective and mystery stories</dc:subject>
 		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/2013</meta>
 		<meta property="se:subject">TAG</meta>
