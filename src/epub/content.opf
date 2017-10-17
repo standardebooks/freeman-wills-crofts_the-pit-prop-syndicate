@@ -24,9 +24,9 @@
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">DESCRIPTION</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
-		<meta id="long-description" property="se:long-description" refines="#description"><![CDATA[
+		<meta id="long-description" property="se:long-description" refines="#description">
 			LONGDESCRIPTION
-		]]></meta>
+		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2013</dc:source>
@@ -39,6 +39,7 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Freeman_Wills_Crofts</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n86862728</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">ill</meta>
 		<dc:contributor id="artist">COVERARTIST</dc:contributor>
 		<meta property="file-as" refines="#artist">COVERARTISTSORT</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVERARTISTWIKILINK</meta>
