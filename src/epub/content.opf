@@ -22,11 +22,11 @@
 		<dc:subject id="subject-1">Detective and mystery stories</dc:subject>
 		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/2013</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">On business in France, Merriman stumbles across a syndicate with something to hide, and resolves to discover their secret.</dc:description>
+		<dc:description id="description">A British wine merchant on business in France stumbles across a syndicate with something to hide, and resolves to discover their secret.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;The Pit-Prop Syndicate is a story from the beginning of the golden age of crime fiction. Merriman, on business in France, happens upon a syndicate manufacturing pit-props, but his eye is caught by one odd detail: their lorry’s numberplate mysteriously changes. With the help of his friend Hilliard from the Excise department they dig deeper and uncover a dangerous conspiracy.&lt;/p&gt;
-			&lt;p&gt;Freeman Wills Crofts was a civil engineer, turned author of crime fiction. Though somewhat forgotten today, his style was widely appreciated at the time, and still finds fans of those who like a puzzle where all the loose ends are tied up. During his career he had over thirty crime novels; The Pit-Prop Syndicate, published in 1922, was his third.&lt;/p&gt;
+			&lt;p&gt;The Pit-Prop Syndicate is a story from the beginning of the golden age of crime fiction. Seymour Merriman, a British wine merchant on business in France, happens upon a syndicate manufacturing pit-props⁠—beams used to prop up mine tunnels⁠—but his eye is caught by one odd detail: their lorry’s numberplate mysteriously changes. With the help of his friend Hilliard from the Excise department they dig deeper and uncover a dangerous conspiracy.&lt;/p&gt;
+			&lt;p&gt;Freeman Wills Crofts was a civil engineer, turned author of crime fiction. Though somewhat forgotten today, his style was widely appreciated at the time, and still finds fans of those who like a puzzle where all the loose ends are tied up. During his career he wrote over thirty crime novels; The Pit-Prop Syndicate, published in 1922, was his third.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
