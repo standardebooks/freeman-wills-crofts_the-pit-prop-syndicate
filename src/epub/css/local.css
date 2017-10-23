@@ -5,6 +5,26 @@ abbr.name{
 	white-space: nowrap;
 }
 
+figure{
+	margin: 1em auto;
+	text-align: center;
+}
+
+figure + p{
+	text-indent: 0;
+}
+
+figure img{
+	max-width: 100%;
+	margin: auto;
+	display: block;
+}
+
+#map-a img,
+#map-c img{
+	max-height: 50%;
+}
+
 span[epub|type~="subtitle"]{
 	display: block;
 	font-weight: normal;
