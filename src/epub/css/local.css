@@ -25,10 +25,14 @@ figure + p{
 	max-height: 50%;
 }
 
-header p{
+header{
 	font-variant: small-caps;
 	text-align: center;
 	margin-bottom: 1em;
+}
+
+header p{
+	text-indent: 0;
 }
 
 span[epub|type~="subtitle"]{
@@ -49,8 +53,8 @@ span[epub|type~="subtitle"]{
 	font-style: italic;
 }
 
-[epub|type~="z3998:letter"] footer p{
-	margin: 1em 0 0;
+[epub|type~="z3998:letter"] footer{
+	margin-top: 1em;
 	text-align: right;
 }
 
