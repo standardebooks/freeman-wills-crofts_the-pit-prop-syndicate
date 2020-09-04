@@ -30,11 +30,6 @@ header p{
 	text-indent: 0;
 }
 
-span[epub|type~="subtitle"]{
-	display: block;
-	font-weight: normal;
-}
-
 [epub|type~="z3998:letter"] header p{
 	text-align: right;
 }
