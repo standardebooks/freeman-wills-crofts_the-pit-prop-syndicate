@@ -36,8 +36,8 @@ header p{
 }
 
 [epub|type~="z3998:letter"] [epub|type~="se:letter.dateline"]{
-	font-variant: normal;
 	font-style: italic;
+	font-variant: normal;
 }
 
 [epub|type~="z3998:letter"] footer{
